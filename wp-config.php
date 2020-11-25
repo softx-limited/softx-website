@@ -23,7 +23,7 @@ define('WP_CACHE', true); // Added by W3 Total Cache
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'softecur' );
+define( 'DB_NAME', 'softxweb' );
 
 /** MySQL database username */
 define( 'DB_USER', 'root' );
@@ -93,5 +93,5 @@ if ( ! defined( 'ABSPATH' ) ) {
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
 
-define( 'WP_HOME', 'http://localhost/softxbd/' );
-define( 'WP_SITEURL', 'http://localhost/softxbd/' );
+define( 'WP_HOME', 'http://localhost/softxbd' );
+define( 'WP_SITEURL', 'http://localhost/softxbd' );
