@@ -1,0 +1,112 @@
+[23-Nov-2020 02:39:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60
+[23-Nov-2020 02:39:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60
+[23-Nov-2020 02:39:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60
+[23-Nov-2020 02:40:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60
+[23-Nov-2020 02:40:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60
+[23-Nov-2020 02:40:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60
+[23-Nov-2020 02:40:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60
+[23-Nov-2020 02:40:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60
+[23-Nov-2020 02:40:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60
+[23-Nov-2020 02:40:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60
+[23-Nov-2020 02:40:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60
+[23-Nov-2020 02:40:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60
+[23-Nov-2020 02:40:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60
+[23-Nov-2020 02:40:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60
+[23-Nov-2020 02:41:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60
+[23-Nov-2020 02:42:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function efine() in /home/softecur/public_html/wp-config.php:60
+Stack trace:
+#0 /home/softecur/public_html/wp-load.php(37): require_once()
+#1 /home/softecur/public_html/wp-admin/admin.php(34): require_once('/home/softecur/...')
+#2 /home/softecur/public_html/wp-admin/index.php(10): require_once('/home/softecur/...')
+#3 {main}
+  thrown in /home/softecur/public_html/wp-config.php on line 60

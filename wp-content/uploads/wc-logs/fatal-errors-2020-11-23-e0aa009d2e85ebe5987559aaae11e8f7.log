@@ -1,0 +1,13 @@
+2020-11-23T07:58:39+00:00 CRITICAL Uncaught Error: Class 'W3TC\Util_Request' not found in /home/softecur/public_html/wp-content/plugins/w3-total-cache/Generic_Plugin.php:202
+Stack trace:
+#0 /home/softecur/public_html/wp-includes/class-wp-hook.php(287): W3TC\Generic_Plugin->init('')
+#1 /home/softecur/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/softecur/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/softecur/public_html/wp-settings.php(546): do_action('init')
+#4 /home/softecur/public_html/wp-config.php(94): require_once('/home/softecur/...')
+#5 /home/softecur/public_html/wp-load.php(37): require_once('/home/softecur/...')
+#6 /home/softecur/public_html/wp-blog-header.php(13): require_once('/home/softecur/...')
+#7 /home/softecur/public_html/index.php(17): require('/home/softecur/...')
+#8 {main}
+  thrown in /home/softecur/public_html/wp-content/plugins/w3-total-cache/Generic_Plugin.php on line 202
+

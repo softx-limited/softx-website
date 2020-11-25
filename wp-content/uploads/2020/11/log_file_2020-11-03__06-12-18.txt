@@ -1,0 +1,96 @@
+
+---Downloaded files---
+The import files for: Default Marketplace were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/softx
+Data file = E:\Work\Server\htdocs\softx/wp-content/themes/tijarah/inc/demo/default/content.xml
+Widget file = E:\Work\Server\htdocs\softx/wp-content/themes/tijarah/inc/demo/default/widgets.wie
+Customizer file = E:\Work\Server\htdocs\softx/wp-content/themes/tijarah/inc/demo/default/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "products" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "products" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "products" (Media)
+
+
+---Importing widgets---
+Sidebar : 
+
+tijarah_recent_post - No Title - Site does not support widget
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+
+WooCommerce Store Sidebar : 
+
+Product Categories - Product categories - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Rating - Average rating - Imported
+Product Tag Cloud - Product tags - Imported
+
+Footer : 
+
+Custom HTML - No Title - Imported
+
+Footer 2 : 
+
+Navigation Menu - Products - Imported
+
+Footer 3 : 
+
+Navigation Menu - Resources - Imported
+
+Footer 4 : 
+
+Navigation Menu - Company - Imported
+
+Footer 5 : 
+
+Navigation Menu - Help and FAQs - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

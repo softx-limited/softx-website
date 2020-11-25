@@ -1,0 +1,92 @@
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://themebing.com/wp/tijarah/rtl
+Data file = /home/themzhuu/public_html/wp/tijarah/wp-content/uploads/sites/6/2020/04/content.xml
+Widget file = /home/themzhuu/public_html/wp/tijarah/wp-content/uploads/sites/6/2020/04/widgets.wie
+Customizer file = /home/themzhuu/public_html/wp/tijarah/wp-content/uploads/sites/6/2020/04/customizer.dat
+Redux files:
+tijarah_opt -> /home/themzhuu/public_html/wp/tijarah/wp-content/uploads/sites/6/2020/04/redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-04-11__13-21-54" (Media)
+
+
+---Importing widgets---
+Sidebar : 
+
+Tijarah : Recent Post - المشاركات الاخيرة - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+
+WooCommerce Store Sidebar : 
+
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Filter Products by Rating - Average rating - Imported
+Filter Products by Price - Filter by price - Imported
+Product Tag Cloud - Product tags - Imported
+
+Footer : 
+
+Custom HTML - No Title - Imported
+
+Footer 2 : 
+
+Navigation Menu - منتجات - Imported
+
+Footer 3 : 
+
+Navigation Menu - مصادر - Imported
+
+Footer 4 : 
+
+Navigation Menu - شركة - Imported
+
+Footer 5 : 
+
+Navigation Menu - المساعدة والأسئلة - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: tijarah_opt finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

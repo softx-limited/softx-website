@@ -1,0 +1,134 @@
+/**
+Theme Name: Tijarah Child
+Author: ThemeBing
+Author URI: http://themeforest.net/user/themebing
+Description: Digital Market Place WordPress WooCommerce Child Theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: tijarah
+Template: tijarah
+*/
+
+/*******************************************************************************************
+ **************************************** START HOME PAGE **********************************
+********************************************************************************************/
+/*  header */
+.home .site-header {
+	position: absolute !important;
+	left: 0 !important;
+	width: 100% !important;
+	background: transparent !important;
+	z-index: 99 !important;
+}
+
+
+/*  breadcrumb */
+.home .breadcrumb-banner{
+	display:none !important;
+}
+
+
+/*  service section*/
+.single-services-item{
+	transition:.3s !important;
+}
+.single-services-item:hover{
+	transform:translateY(-5px) !important;
+	
+}
+.banner-content h4{
+	font-size: 24px;
+	line-height: 34px;
+	margin-top: -16px;
+	margin-bottom: 16px;
+}
+.banner-content p {
+	font-size: 22px !important;
+	line-height: 33px !important;
+	margin-bottom: 0;
+	font-weight: 400;
+}
+/*  counter*/
+.elementor-counter{
+	display:flex !important;
+	justify-content:center !important;
+}
+.elementor-counter .elementor-counter-number-suffix {
+	margin-right: 10px !important;
+}
+
+
+.footer-widgets {
+	border-top: 1px solid transparent;
+}
+/*******************************************************************************************
+ **************************************** END HOME PAGE ************************************
+********************************************************************************************/
+
+
+/*******************************************************************************************
+ ********************************** START ABOUT PAGE PAGE **********************************
+********************************************************************************************/
+.call-to-action {
+	margin-bottom: -25px !important;
+}
+.call-to-action a {
+	border: none !important;
+	box-shadow: 0 7px 10px 6px rgba(0, 0, 0, 0.08) !important;
+}
+
+/*******************************************************************************************
+ ********************************** END ABOUT PAGE PAGE **********************************
+********************************************************************************************/
+
+
+
+/*******************************************************************************************
+ ********************************** START SUPPORT PAGE PAGE ********************************
+********************************************************************************************/
+.support-form p br, .support-form p label br{
+	display:none !important;
+}
+.support-form p label{
+	display:block !important;
+}
+.support-form select{
+	opacity:.6 !important;
+}
+.support-form select option{
+	opacity:1 !important;
+}
+.support-form select {
+    opacity: 1 !important;
+}
+
+/*******************************************************************************************
+ ************************************* END SUPPORT PAGE PAGE ********************************
+********************************************************************************************/
+
+/*******************************************************************************************
+ *************************************   START FOOTER PAGE  ********************************
+********************************************************************************************/
+.footer-social ul li a i{
+	transition:.2s !important;
+}
+.footer-social ul li a:hover i{
+	color:#fff !important;
+	font-size:16px !important;
+}
+/*******************************************************************************************
+ *************************************    END FOOTER PAGE    ********************************
+********************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+

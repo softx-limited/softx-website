@@ -1,0 +1,87 @@
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/softx
+Data file = E:\Work\Server\htdocs\softx/wp-content/uploads/2020/11/content-3.xml
+Widget file = E:\Work\Server\htdocs\softx/wp-content/uploads/2020/11/widgets-4.wie
+Customizer file = E:\Work\Server\htdocs\softx/wp-content/uploads/2020/11/customizer-3.dat
+Redux files:
+softx -> E:\Work\Server\htdocs\softx/wp-content/uploads/2020/11/widgets-5.wie 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+tijarah_recent_post - المشاركات الاخيرة - Site does not support widget
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+
+WooCommerce Store Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+Filter Products by Rating - Average rating - Imported
+Filter Products by Price - Filter by price - Imported
+Product Tag Cloud - Product tags - Imported
+
+Footer : 
+
+Custom HTML - No Title - Imported
+
+Footer 2 : 
+
+Navigation Menu - منتجات - Imported
+
+Footer 3 : 
+
+Navigation Menu - مصادر - Imported
+
+Footer 4 : 
+
+Navigation Menu - شركة - Imported
+
+Footer 5 : 
+
+Navigation Menu - المساعدة والأسئلة - Imported
+
+
+
+---Importing Redux settings---
+The Redux option name: softx, was not found in this WP site, so it was not imported!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

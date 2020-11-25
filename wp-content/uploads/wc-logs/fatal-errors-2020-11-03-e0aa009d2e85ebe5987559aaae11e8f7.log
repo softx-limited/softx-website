@@ -1,0 +1,19 @@
+2020-11-03T05:36:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\Work\Server\htdocs\softx\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-11-03T05:55:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\Work\Server\htdocs\softx\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-11-03T05:55:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\Work\Server\htdocs\softx\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-11-03T06:30:04+00:00 CRITICAL Uncaught RuntimeException: Unable to claim actions. Database error. in E:\Work\Server\htdocs\softx\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:675
+Stack trace:
+#0 E:\Work\Server\htdocs\softx\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php(599): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 E:\Work\Server\htdocs\softx\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 E:\Work\Server\htdocs\softx\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#3 E:\Work\Server\htdocs\softx\wp-includes\class-wp-hook.php(287): ActionScheduler_QueueRunner->run('WP Cron')
+#4 E:\Work\Server\htdocs\softx\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 E:\Work\Server\htdocs in E:\Work\Server\htdocs\softx\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php on line 675
+
+2020-11-03T12:01:58+00:00 CRITICAL syntax error, unexpected 'tijarah' (T_STRING), expecting ',' or ')' in E:\Work\Server\htdocs\softx\wp-content\themes\tijarah\functions.php on line 166
+
+2020-11-03T12:02:02+00:00 CRITICAL syntax error, unexpected 'tijarah' (T_STRING), expecting ',' or ')' in E:\Work\Server\htdocs\softx\wp-content\themes\tijarah\functions.php on line 166
+
